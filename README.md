@@ -14,7 +14,7 @@ Features:
 
 + Connect to your VPS via SSH.
 + Go to the directory where you want to download the file
-+ Type in `wget https://raw.githubusercontent.com/lollilol/mc_bungee_startscript/master/startscript.sh`
++ Run `wget https://raw.githubusercontent.com/lollilol/mc_bungee_startscript/master/startscript.sh`
 + Customize it with `nano startscript.sh`
 + make it runnable with `chmod a+x startscript.sh`
 + done.
@@ -25,14 +25,14 @@ Now you can use your startscript with `./startscript.sh (start|stop|restart|relo
 
 ## Required/Dependencies
 + screen (apt install screen)
-+ java [(How to install)](debian8_java8.md)
++ java ([How to install])(debian8_java8.md)
 + 1 bungeecord server
 + several minecraft servers
 + yea! thats all!
 
 ## Autostart integration
 + Please make sure you have crontab/cron installed
-+ Type in: `crontab -e`
++ Run `crontab -e`
 + you may have to choose your editor: i would recommend "nano"
 + now the crontab file is opened. scroll to the end of the file
 + now insert `@reboot /file/to/your/startscript.sh start`
