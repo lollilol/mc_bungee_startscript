@@ -1,7 +1,7 @@
 # Startscript for Bungeecord and several Minecraft Servers.
 A customizable, little script to start your bungeecord &amp; minecraft servers.
 
-[Click here, to get the raw script](https://raw.githubusercontent.com/lollilol/mc_bungee_startscript/master/startscript.sh)
+[Click here to get the raw script](https://raw.githubusercontent.com/lollilol/mc_bungee_startscript/master/startscript.sh)
 
 # How to use:
 
