@@ -4,6 +4,7 @@ A customizable, little script to start your bungeecord &amp; minecraft servers.
 ## Downloads
 #### [Direct Download](https://github.com/lollilol/mc_bungee_startscript/releases/download/v1.0/startscript.sh)
 
+
 [Raw script](https://raw.githubusercontent.com/lollilol/mc_bungee_startscript/master/startscript.sh) (right click, wget friendly)
 
 [Releases](https://github.com/lollilol/mc_bungee_startscript/releases)
@@ -33,7 +34,6 @@ Now you can use your startscript with `./startscript.sh (start|stop|restart|relo
 + java ([How to install](debian8_java8.md))
 + 1 bungeecord server
 + several minecraft servers
-+ yea! thats all!
 
 ## Autostart integration
 + Please make sure you have crontab/cron installed
