@@ -25,7 +25,7 @@ Now you can use your startscript with `./startscript.sh (start|stop|restart|relo
 
 ## Required/Dependencies
 + screen (apt install screen)
-+ java ([How to install])(debian8_java8.md)
++ java ([How to install](debian8_java8.md))
 + 1 bungeecord server
 + several minecraft servers
 + yea! thats all!
