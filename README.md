@@ -30,7 +30,7 @@ Now you can use your startscript with `./startscript.sh (start|stop|restart|relo
 + several minecraft servers
 + yea! thats all!
 
-## Autostart integration
+# Autostart integration
 + Please make sure you have crontab/cron installed
 + Type in: `crontab -e`
 + you may have to choose your editor: i would recommend "nano"
