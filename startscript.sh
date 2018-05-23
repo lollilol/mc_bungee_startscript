@@ -1,8 +1,5 @@
 #!/bin/sh
 
-#name of the startscript
-name=startscript.sh
-
 #location of bungeecord and minecraft servers
 bungee=/home/minecraft/bungeecord/
 mc1=/home/minecraft/lobby/
@@ -28,6 +25,8 @@ ram_server2=1G
 ram_server3=1G
 
 #no changes beyond this line
+
+name=`basename "$0"`
 
 case "$1" in
 start)
