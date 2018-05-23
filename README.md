@@ -1,4 +1,4 @@
-# Startscript for several Minecraft Servers and Bungeecord.
+# Startscript for Bungeecord and several Minecraft Servers.
 A customizable, little script to start your bungeecord &amp; minecraft servers.
 
 [Click here to download the script](https://raw.githubusercontent.com/lollilol/mc_bungee_startscript/master/startscript.sh)
