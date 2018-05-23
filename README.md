@@ -21,7 +21,7 @@ Features:
 
 or just paste this: `cd && wget https://raw.githubusercontent.com/lollilol/mc_bungee_startscript/master/startscript.sh && nano startscript.sh && chmod a+x startscript.sh` into ssh.
 
-Now you can use your startscript with `./startscript.sh (start|stop|restart|reload)`
+Now you can use your startscript with `./startscript.sh (start|stop|restart|reload|info)`
 
 # Required
 + screen (apt install screen)
