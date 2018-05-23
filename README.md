@@ -16,7 +16,7 @@ or just paste this: `cd && wget https://raw.githubusercontent.com/lollilol/mc_bu
 
 Now you can use your startscript with `./startscript.sh (start|stop|restart|reload)`
 
-##Autostart integration
+## Autostart integration
 + Please make sure you have crontab/cron installed
 + Type in: `crontab -e`
 + you may have to choose your editor: i would recommend "nano"
