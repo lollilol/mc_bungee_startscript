@@ -21,7 +21,7 @@ Now you can use your startscript with `./startscript.sh (start|stop|restart|relo
 + Type in: `crontab -e`
 + you may have to choose your editor: i would recommend "nano"
 + now the crontab file is opened. scroll to the end of the file
-+ now insert `@reboot /file/to/your/startscript start`
++ now insert `@reboot /file/to/your/startscript.sh start`
 + done.
 
 # Informations
