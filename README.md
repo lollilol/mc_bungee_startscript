@@ -14,3 +14,7 @@ A customizable, little script to start your bungeecord &amp; minecraft servers.
 or just paste this: `cd && wget https://raw.githubusercontent.com/lollilol/mc_bungee_startscript/master/startscript.sh && nano startscript.sh && chmod a+x startscript.sh` into ssh.
 
 Now you can use your startscript with `./startscript.sh (start|stop|restart|reload)`
+
+# Informations
++ You dont need anything like a start.sh in every minecraft folder. You only need an bungeecord & several minecraft folder(s).
++ Please make sure you have screen & java installed.
