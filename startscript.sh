@@ -63,7 +63,7 @@ info)
 	echo "\033[32m$mc3_screen\033[0m server has \033[32m$ram_server3\033[0m Ram. [\033[32m$mc3\033[0m]"
 	;;
 *)
-	echo "\033[31mUsage: '$name (start|stop|restart|reload|info)'\033[0m"
+	echo "\033[31mUsage: './$name (start|stop|restart|reload|info)'\033[0m"
 	;;
 esac
 exit 0
