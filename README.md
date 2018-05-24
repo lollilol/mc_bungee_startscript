@@ -1,8 +1,6 @@
 # Startscript for Bungeecord and several Minecraft Servers.
 A customizable, little script to start your bungeecord &amp; minecraft servers.
 
-# Important: currently there is a bug. The complete script doesnt work at the moment, I will update it tomorrow!
-
 ## Downloads
 #### [Direct Download](https://github.com/lollilol/mc_bungee_startscript/releases/download/v1.0/startscript.sh)
 
