@@ -14,6 +14,11 @@ Features:
 + You dont need any start.sh in your minecraft & bungeecord folders! Only a startable bungeecord & minecraft server.
 + currently im supporting only Debian 8 with Java 8.
 
+## Usage
+```
+./startscript.sh (start|stop|restart|reload|info)
+```
+
 ## How to use:
 
 + Connect to your VPS via SSH.
@@ -24,8 +29,6 @@ Features:
 + done.
 
 >or just paste this: `cd && wget https://raw.githubusercontent.com/lollilol/mc_bungee_startscript/master/startscript.sh && nano startscript.sh && chmod a+x startscript.sh` into ssh.
-
-Now you can use your startscript with `./startscript.sh (start|stop|restart|reload|info)`
 
 ## Required/Dependencies
 + screen (in the most Repositorys called "screen")
