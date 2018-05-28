@@ -25,7 +25,7 @@ ram_server1=1G
 ram_server2=1G
 ram_server3=2G
 
-#no major changes beyond this line
+#no necessary changes beyond this line
 
 name=`basename "$0"`
 case "$1" in
