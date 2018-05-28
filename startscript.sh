@@ -1,5 +1,6 @@
 #!/bin/sh
 
+##variables
 #location of bungeecord and minecraft servers
 bungee=/home/minecraft/bungeecord/
 mc1=/home/minecraft/lobby/
