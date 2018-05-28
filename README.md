@@ -28,7 +28,7 @@ Features:
 Now you can use your startscript with `./startscript.sh (start|stop|restart|reload|info)`
 
 ## Required/Dependencies
-+ screen (apt install screen)
++ screen (in the most Repositorys called "screen")
 + java ([How to install](debian8_java8.md))
 + 1 bungeecord server
 + several minecraft servers
