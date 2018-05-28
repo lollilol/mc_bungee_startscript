@@ -10,7 +10,7 @@ A customizable, little script to start your bungeecord &amp; minecraft servers.
 
 ## Overview
 Features:
-+ Start your Bungeecord & Minecraft Servers
++ Start, stop and reload your Bungeecord & Minecraft Servers
 + You dont need any start.sh in your minecraft & bungeecord folders! Only a startable bungeecord & minecraft server.
 + currently im supporting only Debian 8 with Java 8.
 
