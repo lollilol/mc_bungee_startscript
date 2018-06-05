@@ -30,6 +30,7 @@ Features:
 
 or just paste
 >`cd && wget https://raw.githubusercontent.com/lollilol/mc_bungee_startscript/master/startscript.sh && nano startscript.sh && chmod a+x startscript.sh`
+
 into ssh.
 
 ## Required/Dependencies
