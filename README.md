@@ -19,7 +19,7 @@ Features:
 ./startscript.sh (start|stop|restart|reload|info)
 ```
 
-## How to install:
+## How to download:
 
 + Connect to your VPS via SSH.
 + Go to the directory where you want to download the file
