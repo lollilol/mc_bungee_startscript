@@ -23,15 +23,15 @@ Features:
 
 + Connect to your VPS via SSH.
 + Go to the directory where you want to download the file
-+ Run `wget https://raw.githubusercontent.com/lollilol/mc_bungee_startscript/master/startscript.sh`
++ Execute `wget https://raw.githubusercontent.com/lollilol/mc_bungee_startscript/master/startscript.sh`
 + Customize it with `nano startscript.sh`
-+ make it runnable with `chmod a+x startscript.sh`
++ make it executeable with `chmod a+x startscript.sh`
 + done.
 
 or just paste
 >`cd && wget https://raw.githubusercontent.com/lollilol/mc_bungee_startscript/master/startscript.sh && nano startscript.sh && chmod a+x startscript.sh`
 
-into ssh.
+into ssh, to download the script in the home folder and make it executeable.
 
 ## Required/Dependencies
 + screen (in the most Repositorys called "screen")
@@ -41,7 +41,7 @@ into ssh.
 
 ## Autostart integration
 + Please make sure you have crontab/cron installed
-+ Run `crontab -e`
++ Execute `crontab -e`
 + you may have to choose your editor: i would recommend "nano"
 + now the crontab file is opened. scroll to the end of the file
 + now insert `@reboot /file/to/your/startscript.sh start`
