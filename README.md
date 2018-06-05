@@ -37,7 +37,7 @@ into ssh, to download the script in the home folder and make it executeable.
 + screen (in the most Repositorys called "screen")
 + java ([How to install](debian8_java8.md))
 + 1 bungeecord server
-+ several minecraft servers
++ one or more minecraft servers
 
 ## Autostart integration
 + Please make sure you have crontab/cron installed
